@@ -1,0 +1,5 @@
+# The original MATLAB sources are stored byte-for-byte as they were written:
+# ISO-8859-1 (Latin-1) encoding with CRLF line endings. Disable any line-ending
+# normalization so checkouts never alter them.
+src/*.m -text
+src/SHA256SUMS text eol=lf

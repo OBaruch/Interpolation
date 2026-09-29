@@ -1,0 +1,11 @@
+# MATLAB / GNU Octave artifacts
+*.asv
+*.m~
+*.mat
+octave-workspace
+slprj/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
